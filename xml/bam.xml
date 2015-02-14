@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<crossword dimensions="15,15">
+
+<word direction="down" position="9,1">
+<clue>____________a little grace</clue>se necesita</word>
+
+<word direction="across" position="9,1">
+<clue>yo no ______</clue>soy</word>
+
+<word direction="down" position="5,5">
+<clue>higher</clue>arriba</word>
+
+<word direction="across" position="3,6">
+<clue>in order to</clue>para</word>
+
+<word direction="down" position="12,6">
+<clue>the guy sings that he is NOT this!</clue>marinero</word>
+
+<word direction="across" position="1,8">
+<clue>for you</clue>por ti</word>
+
+<word direction="across" position="7,8">
+<clue>what activity is the song about?</clue>bailar</word>
+
+<word direction="across" position="3,10">
+<clue>a little bit</clue>una poca</word>
+
+<word direction="down" position="8,10">
+<clue>with</clue>con</word>
+
+<word direction="across" position="11,11">
+<clue>of</clue>de</word>
+
+</crossword>

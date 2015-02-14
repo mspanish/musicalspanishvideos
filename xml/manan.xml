@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<crossword dimensions="16,14">
+
+<word direction="across"position="1,13">
+<clue>I feel better</clue>me siento mejor</word>
+
+<word direction="down"position="15,9">
+<clue>like this</clue>asi</word>
+
+<word direction="across"position="6,9">
+<clue>what does the boy ask the man to turn off?</clue>su lucesita</word>
+
+<word direction="down"position="8,9">
+<clue>later on</clue>luego</word>
+
+<word direction="down"position="11,8">
+<clue>I thank you (formal) = _____ agradezco</clue>le</word>
+
+<word direction="across"position="3,2">
+<clue>asi ___________ la manana</clue>estaba</word>
+
+<word direction="across"position="3,6">
+<clue>que cantaba el rey __________</clue>David</word>
+
+<word direction="down"position="6,1">
+<clue>little mornings</clue>mananitas</word>
+
+<word direction="across"position="2,4">
+<clue>girls</clue>muchachas</word>
+
+<word direction="across"position="2,8">
+<clue>help</clue>ayuda</word>
+</crossword>

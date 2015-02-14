@@ -1,0 +1,5 @@
+w1=¡No escuchaste a la canción!
+&w2=Necesitas estudiar más
+&w3=¡Muy Mal! Ay yay yay, intenta de nuevo
+&w4=Amigo mio, ¡Pon más atención!
+&w5=Estás equivocado

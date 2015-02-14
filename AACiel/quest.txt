@@ -1,0 +1,10 @@
+q1=which is a formal command form of the verb?
+&q2=who does the little boy find waiting for him at school?
+&q3=¿que necesita el chico?
+&q4=which is an informal command?
+&q5=which word is NOT a cognate?
+&q6=what verb does the word 'va' come from?
+&q7=which is NOT a way the present verb is used in Spanish?
+&q8=how do you form the 'ING' word for the verb 'estudiar'?
+&q9=what is the word for 'who'?
+&q10=who does 'me llaman' refer to?

@@ -1,0 +1,5 @@
+w1=Debes escuchar a la música
+&w2=Tienes que darle más esfuerzo
+&w3=¡No aprendiste nada!
+&w4=Tu español podría ser mejor
+&w5=¡Creo que necesitas comer más verdura para que seas más inteligente!

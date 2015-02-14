@@ -1,0 +1,5 @@
+c1=¡Qué estudiante tan bueno!
+&c2=Eres muy listo
+&c3=¡Qué maravilla!
+&c4=Aprendiste mucho de Musical Spanish
+&c5=Sabes español muy bien!!

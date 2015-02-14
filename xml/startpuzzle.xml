@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<crossword dimensions="11,11">
+	<word direction="across" position="3,1">
+		<clue>To work at an activity in order to learn or perfect a skill</clue>
+		practice
+	</word>
+	<word direction="across" position="7,4">
+		<clue>A person who trains or directs a player or team</clue>
+		coach
+	</word>
+	<word direction="across" position="1,7">
+		<clue>A football game played each year to determine the championship of the National Football League</clue>
+		Super Bowl
+	</word>
+	<word direction="across" position="1,9">
+		<clue>A group of players on the same side in a game</clue>
+		team
+	</word>
+	<word direction="across" position="1,11">
+		<clue><![CDATA[A popular American sport played with an <br>egg-shaped, leather ball]]></clue>
+		football
+	</word>
+	<word direction="down" position="7,1">
+		<clue>An act of carrying, receiving, or gaining possession of the ball across the opponent's goal line for a score of six points</clue>
+		touchdown
+	</word>
+	<word direction="down" position="9,3">
+		<clue>To force an opposing player who has the ball to the ground</clue>
+		tackle
+	</word>
+	<word direction="down" position="1,4">
+		<clue>To throw the ball to another player</clue>
+		pass
+	</word>
+	<word direction="down" position="11,4">
+		<clue>When the players on the field from one team form a group to discuss the upcoming play</clue>
+		huddle
+	</word>
+	<word direction="down" position="4,6">
+		<clue>A head covering, made of hard plastic, worn by football players to protect the head</clue>
+		helmet
+	</word>
+</crossword>

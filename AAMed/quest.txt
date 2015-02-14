@@ -1,0 +1,10 @@
+q1=¿en qué piso está el apartamento?
+&q2=what does 'hay' mean?
+&q3=which is the following words is NOT in the song?
+&q4=what is the main difference between 'ser' and 'estar'?
+&q5=which contains the correct use of 'ser'?
+&q6=¿qué significa lunes?
+&q7=what happens on Sundays in the song?
+&q8=which quantity word is contained in the song?
+&q9=which contains the correct use of 'estar'?
+&q10=in which situation would you NOT use 'hay'?

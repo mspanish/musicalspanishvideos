@@ -1,0 +1,8 @@
+<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="20" COLOR="#000000" LETTERSPACING="0" KERNING="0">Buy the full version with all 10 songs now for $14.99. Our download system accepts Google Checkout and Paypal, and downloads are instantly available (Google sends you an email, Paypal sends you to the download page after payment).
+
+<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="_sans" SIZE="20" COLOR="#0000FF" LETTERSPACING="0" KERNING="0"><A HREF="http://www.musicalspanish.com/download/_catalog/spanish_videos/_musical_spanish_animated_videos_games_and_puzzles" TARGET="_blank"><U> Click here to visit the product purchase page online</U></A></FONT></FONT></P></TEXTFORMAT>
+
+<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="_sans" SIZE="2" COLOR="#000000" LETTERSPACING="0" KERNING="0"><IMG SRC="images/paypal.jpg" ALIGN="CENTER"> </FONT></P></TEXTFORMAT>
+
+
+<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="_sans" SIZE="2" COLOR="#000000" LETTERSPACING="0" KERNING="0"><IMG SRC="images/google.jpg"> </FONT></P></TEXTFORMAT>

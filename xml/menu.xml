@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu lang="en">
+	<item label="Videos">
+				<item label="La Bamba with Translation" callback="lyrics1" />
+		<item label="La Bamba Full Screen" callback="bamBig" />
+		<item type="separator" />
+	    		<item label="Carnavalito with Translation" callback="lyrics2" />
+		<item label="Carnavalito Full Screen" callback="carnBig" />
+		<item type="separator" />
+			    <item label="La Cucaracha with Translation" callback="lyrics3" />
+		<item label="La Cucaracha Full Screen" callback="cucaBig" />
+		<item type="separator" />
+			    <item label="Cielito Lindo with Translation" callback="lyrics4" />
+		<item label="Cielito Lindo Full Screen" callback="cielBig" />
+		<item type="separator" />
+			    <item label="A Media Luz with Translation" callback="lyrics5" />
+		<item label="A Media Luz Full Screen" callback="mediaBig" />
+		<item type="separator" />
+			    <item label="Guantanamera with Translation" callback="lyrics6" />
+		<item label="Guantanamera Full Screen" callback="guanBig" />
+		<item type="separator" />
+			    <item label="Ay Cosita Linda with Translation" callback="lyrics7" />
+		<item label="Ay Cosita Linda Full Screen" callback="cosBig" />
+		<item type="separator" />
+			    <item label="Allá en el Rancho Grande with Translation" callback="lyrics8" />
+		<item label="Allá en el Rancho Grande Full Screen" callback="ranchoBig" />
+		<item type="separator" />
+			    <item label="La Adelita with Translation" callback="lyrics9" />
+		<item label="La Adelita Full Screen" callback="adelitaBig" />
+		<item type="separator" />
+		    <item label="Las Mañanitas with Translation" callback="lyrics10" />
+		<item label="Las Mañanitas Full Screen" callback="manBig" />
+		</item>
+		
+<item label="Puzzles">
+			<item label="La Bamba Sound Puzzle" callback="bamSound" />
+		<item label="La Bamba Crossword Puzzle" callback="bamCross" />
+		<item type="separator" />
+			<item label="Carnavalito Sound Puzzle" callback="carnSound" />
+		<item label="Carnavalito Crossword Puzzle" callback="carnCross" />
+		<item type="separator" />
+			<item label="La Cucaracha Sound Puzzle" callback="cucaPuzz" />
+		<item label="La Cucaracha Crossword Puzzle" callback="cucaCross" />
+		<item type="separator" />
+			<item label="Cielito Lindo Sound Puzzle" callback="cielSound" />
+		<item label="Cielito Lindo Crossword Puzzle" callback="cielCross" />
+		<item type="separator" />
+			<item label="A Media Luz Sound Puzzle" callback="mediaSound" />
+		<item label="A Media Luz Crossword Puzzle" callback="mediaCross" />
+		<item type="separator" />
+			<item label="Guantanamera Sound Puzzle" callback="guanSound" />
+		<item label="Guantanamera Crossword Puzzle" callback="guanCross" />
+		<item type="separator" />
+			<item label="Ay Cosita Linda Sound Puzzle" callback="cosSound" />
+		<item label="Ay Cosita Linda Crossword Puzzle" callback="cosCross" />
+		<item type="separator" />
+			<item label="Allá en el Rancho Grande Sound Puzzle" callback="ranchoSound" />
+		<item label="Allá en el Rancho Grande Crossword Puzzle" callback="ranchoCross" />
+		<item type="separator" />
+			<item label="La Adelita Sound Puzzle" callback="adelitaSound" />
+		<item label="La Adelita Crossword Puzzle" callback="adelitaCross" />
+		<item type="separator" />
+			<item label="Las Mañanitas Sound Puzzle" callback="manSound" />
+		<item label="La Mañanitas Crossword Puzzle" callback="manPuzz" />
+		<item type="separator" />
+
+		</item>	
+		
+<item label="Games">
+		<item label="La Bamba Quiz Game" callback="bamQuiz" />
+		<item label="La Bamba Hangman Game" callback="bamHang" />
+		<item type="separator" />
+		<item label="Carnavalito Quiz Game" callback="carnQuiz" />
+		<item label="Carnavalito Hangman Game" callback="carnHang" />
+		<item type="separator" />
+		<item label="La Cucaracha Quiz Game" callback="cucaQuiz" />
+		<item label="La Cucaracha Hangman Game" callback="cucaHang" />
+		<item type="separator" />
+		<item label="Cielito Lindo Quiz Game" callback="cielQuiz" />
+		<item label="Cielito Lindo Hangman Game" callback="cielHang" />
+		<item type="separator" />
+		<item label="A Media Luz Quiz Game" callback="mediaQuiz" />
+		<item label="A Media Luz Hangman Game" callback="mediaHang" />
+		<item type="separator" />
+		<item label="Guantanamera Quiz Game" callback="guanQuiz" />
+		<item label="Guantanamera Hangman Game" callback="guanHang" />
+		<item type="separator" />
+		<item label="Ay Cosita Linda Quiz Game" callback="cosQuiz" />
+		<item label="Ay Cosita Linda Hangman Game" callback="cosHang" />
+		<item type="separator" />
+		<item label="Allá en el Rancho Grande Quiz Game" callback="ranchoQuiz" />
+		<item label="Allá en el Rancho Grande Hangman Game" callback="ranchoHang" />
+		<item type="separator" />
+		<item label="La Adelita Quiz Game" callback="adelitaQuiz" />
+		<item label="La Adelita Hangman Game" callback="adelitaHang" />
+		<item type="separator" />
+		<item label="Las Mañanitas Quiz Game" callback="manQuiz" />
+		<item label="Las Mañanitas Hangman Game" callback="manHang" />
+		<item type="separator" />
+		</item>
+		
+<item label="Grammar">
+		<item label="La Bamba Grammar Summary" callback="bamGramm" />
+		<item label="Carnavalito Grammar Summary" callback="carnGramm" />
+		<item label="La Cucaracha Grammar Summary" callback="cucaGramm" />
+		<item label="Cielito Lindo Grammar Summary" callback="cielGramm" />
+		<item label="A Media Luz Grammar Summary" callback="mediaGramm" />
+		<item label="Guantanamera Grammar Summary" callback="guanGramm" />
+		<item label="Ay Cosita Linda Grammar Summary" callback="cosGramm" />
+		<item label="Allá en el Rancho Grande Grammar Summary" callback="ranchoGramm" />
+		<item label="La Adelita Grammar Summary" callback="adelitaGramm" />
+		<item label="Las Mañanitas Grammar Summary" callback="manGramm" />
+						
+		</item>	
+
+<item label="About">
+		<item label="About this Program" callback="about" />
+		<item label="About the Author" callback="auth" />
+		<item label="Affiliate Program" callback="affil" />
+		<item label="Other Learning Downloads" callback="other" />
+		<item label="Free Insta Spanish Podcast" callback="visitPodcast" />
+		<item label="Visit us Online" callback="visitUs" />
+		</item>			
+</menu>
+

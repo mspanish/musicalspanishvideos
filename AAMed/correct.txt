@@ -1,0 +1,5 @@
+c1=¡Podrías ser profesor!
+&c2=¡Estudiante número UNO!
+&c3=Musical Spanish es tu amigo, se nota
+&c4=Mágnifico
+&c5=Deberías estar muy orgulloso!!

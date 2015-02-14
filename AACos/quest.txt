@@ -1,0 +1,10 @@
+q1=what did he dream about last night?
+&q2=how do you say 'I dreamt'?
+&q3=¿qué significa contigo?
+&q4=which is NOT a way to say 'he tells me'?
+&q5=how do you say 'our students'?
+&q6=what is the difference between 'soñe' and soñaba'?
+&q7=¿qué significa 'decías'?
+&q8=en el sueño, dónde decían 'cosita linda mi amor?'
+&q9=which sentence says 'they tell THEM?'
+&q10=which sentence does NOT say 'Jorge will invite him to the party?

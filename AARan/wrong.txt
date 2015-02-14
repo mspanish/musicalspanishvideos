@@ -1,0 +1,5 @@
+w1=¡Saca tu Musical Spanish del CLOSET!
+&w2=Debes darle más esfuerzo
+&w3=No aprendiste bastante
+&w4=¡Tu español no podría ser peor!
+&w5=Estás de vacaciones? Parece que sí porque ¡no estás estudiando!

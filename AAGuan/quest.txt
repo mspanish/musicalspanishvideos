@@ -1,0 +1,10 @@
+q1=which is not an example of modal verb (verb combo)?
+&q2=what does 'tan' mean?
+&q3=where does the guy say he should go?
+&q4=¿qué significa 'tal vez'?
+&q5=which phrase does NOT express uncertainty or doubt?
+&q6=how do say 'he knows Spanish?'
+&q7=what is the subjunctive NOT used for?
+&q8=how do you say you are familiar with a person or place?
+&q9=¿porqué no alcanza al metro?
+&q10=why does he say 'mejor que espere el otro' (tren)?

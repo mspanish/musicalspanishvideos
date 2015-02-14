@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<crossword dimensions="15,15">
+
+<word direction="across" position="4,1">
+<clue>a little bit mad</clue>enojaditos</word>
+
+<word direction="down" position="4,1">
+<clue>wait!</clue>espera</word>
+
+<word direction="down" position="8,1">
+<clue>over there</clue>alla</word>
+
+
+<word direction="down" position="11,1">
+<clue>a little bit calmly</clue>tranquilito</word>
+
+<word direction="across" position="1,6">
+<clue>the command form of 'to take'</clue>toma</word>
+
+<word direction="across" position="10,6">
+<clue>you</clue>tu</word>
+
+<word direction="down" position="9,8">
+<clue>pretty (masculine)</clue>bonito</word>
+
+<word direction="across" position="5,9">
+<clue>the car is not big, it's ________</clue>chico</word>
+
+<word direction="across" position="4,11">
+<clue>a little clown</clue>payasito</word>
+
+<word direction="across" position="4,13">
+<clue>people who are married</clue>esposos</word>
+
+</crossword>

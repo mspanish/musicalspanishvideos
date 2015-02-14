@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<crossword dimensions="15,15">
+<word direction="down" position="5,1">
+<clue>a street name in Buenos Aires</clue>Juncal</word>
+
+
+<word direction="down" position="11,1">
+<clue>an animal that isn't a dog!</clue>un gato</word>
+
+
+<word direction="across" position="3,3">
+<clue>a type of dance</clue>tango</word>
+
+<word direction="down" position="2,4">
+<clue>fear</clue>temor</word>
+
+
+<word direction="down" position="9,4">
+<clue>neighbors</clue>vecinos</word>
+
+<word direction="across" position="2,5">
+<clue>the door is not closed....</clue>esta abierta</word>
+
+
+<word direction="down" position="7,7">
+<clue>inside</clue>adentro</word>
+
+
+<word direction="across" position="7,7">
+<clue>like this</clue>asi</word>
+
+
+<word direction="across" position="6,9">
+<clue>at night</clue>de noche</word>
+
+
+<word direction="across" position="1,11">
+<clue>answers</clue>contesta</word>
+
+</crossword>

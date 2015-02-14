@@ -1,0 +1,5 @@
+c1=¡Eso es!
+&c2=¡Eres lo máximo!
+&c3=Musical Spanish te ha ayudado mucho con tu español
+&c4=Te va super bien
+&c5=Parece que tomas vitaminas, eres tan inteligente!!
